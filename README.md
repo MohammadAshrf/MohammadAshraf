@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadashrf&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadashrf" /> </p>
 
 
-- 🔭 I’m currently working on [Egypt Tour Guide](https://github.com/MohammadAshrf/Egypt-Tour-Guide)
+- 🔭 I’m currently working on [Advanced Android Kotlin Nanodegree By Udacity]
 
-- 🌱 I’m currently learning **Kotlin, Android development**
+- 🌱 I’m currently learning **Native Android Kotlin Development**
 
-- 📫 How to reach me **mohamedashrf155@gmail.com**
+- 📫 How to reach me Twitter: **@MohammadAshrff** E-mail: **mohamedashrf155@gmail.com** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pulhjgMNWSZoLBvk8NnOEnHOR-R5DkFq/view?usp=sharing](https://drive.google.com/file/d/1pulhjgMNWSZoLBvk8NnOEnHOR-R5DkFq/view?usp=sharing)
 
