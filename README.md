@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Native Android Kotlin Development**
 
-- 📫 How to reach me Twitter: **@MohammadAshrff** E-mail: **mohamedashrf155@gmail.com** 
+- 📫 How to reach me on Twitter: **@MohammadAshrff** and E-mail: **mohamedashrf155@gmail.com**
 
 - 📄 Know about my experiences (https://bit.ly/3KU7nER)
 
