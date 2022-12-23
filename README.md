@@ -9,7 +9,7 @@
 
 - 📫 How to reach me Twitter: **@MohammadAshrff** E-mail: **mohamedashrf155@gmail.com** 
 
-- 📄 Know about my experiences [(https://bit.ly/3KU7nER)]
+- 📄 Know about my experiences (https://bit.ly/3KU7nER)
 
 <p align="left"> <a href="https://twitter.com/mohammadashrff" target="blank"><img src="https://img.shields.io/twitter/follow/mohammadashrff?logo=twitter&style=for-the-badge" alt="mohammadashrff" /></a> </p>
 
