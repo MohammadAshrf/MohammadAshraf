@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Native Android Kotlin Development**
 
-- 📫 How to reach me on Twitter: **@MohammadAshrff** and E-mail: **mohamedashrf155@gmail.com**
-
-- 📄 Know about my experiences (https://bit.ly/3KU7nER)
+- 📫 How to reach me on LinkdIn: **[@MohammadAshrff](https://linkedin.com/in/mohammadashrf)** and E-mail: **mohamedashrf155@gmail.com**
 
 <p align="left"> <a href="https://twitter.com/mohammadashrff" target="blank"><img src="https://img.shields.io/twitter/follow/mohammadashrff?logo=twitter&style=for-the-badge" alt="mohammadashrff" /></a> </p>
 
