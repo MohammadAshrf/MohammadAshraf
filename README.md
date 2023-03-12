@@ -11,7 +11,7 @@
 <h3>📫 Connect with Me</h3>
 <strong><p>LinkedIn: <a href="https://linkedin.com/in/mohammadashrf">Mohammad Ashraf</a> <a href="https://linkedin.com/in/mohammadashrf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadashrf" height="27" width="600" /></a></p></strong>
 <strong><p>Email: <strong><a href="mailto:mohamedashrf155@gmail.com">Mohamedashrf155@gmail.com</p></strong>
-<strong><p>Twitter: <a href="https://twitter.com/mohammadashrff">Mohammadashrff</a> <a href="https://twitter.com/mohammadashrff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammadashrff" height="35" width="500" /></a></p></strong>
+<strong><p>Twitter: <a href="https://twitter.com/mohammadashrff">Mohammadashrff</a> <a href="https://twitter.com/mohammadashrff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammadashrff" height="35" width="300" /></a></p></strong>
 
 <h3>💻 Languages and Tools</h3>
 <p>
