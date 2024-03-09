@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A Passionate Android Developer</h3>
+<h3 align="center">A passionate Android developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadashrf&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadashrf" /> </p>
 
 <h3>🔭 Current Work</h3>
-<p>I’m currently working on the <strong>Advanced Android Kotlin Nanodegree by Udacity and Jetpack Compose</strong>. This curriculum covers advanced topics in Android development such as creating custom views, implementing libraries, testing, and more.</p>
+<p>I’m currently an Android developer intern at SolutionPlus</p>
 
 <h3>🌱 Learning Goals 🏆</h3>
 <p>My primary focus is to continue improving my skills in <strong>Native Android Kotlin Development with Jetpack Compose</strong>. I want to stay up-to-date with the latest technologies and best practices in the industry.</p>
