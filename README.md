@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadashrf&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadashrf" /> </p>
 
 <h3>🔭 Current Work</h3>
-<p>I’m currently an Android developer intern at SolutionPlus</p>
+<p>I’m currently an Android developer intern at SolutionPlus, Contributing to a collaborative team environment and working on exciting mobile applications.</p>
 
 <h3>🌱 Learning Goals 🏆</h3>
 <p>My primary focus is to continue improving my skills in <strong>Native Android Kotlin Development with Jetpack Compose</strong>. I want to stay up-to-date with the latest technologies and best practices in the industry.</p>
